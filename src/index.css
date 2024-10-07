@@ -136,3 +136,55 @@ form input {
   cursor: pointer;
   text-decoration: underline;
 }
+
+.retrieve-info {
+  width: 92%;
+  height: 70%;
+  border: 1px solid black;
+  margin-left: 40px;
+}
+
+.retrieve-info h4 {
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  width: 250px;
+  text-align: center;
+  padding: 15px 30px;
+}
+
+.aadhar-input {
+  width: 100%;
+  margin: 20px;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.aadhar-input input {
+  width: 30%;
+  padding: 8px 5px;
+}
+
+.aadhar-input button {
+  background-color: #4472c4;
+  border: none;
+  color: #fff;
+  padding: 10px 30px;
+  cursor: pointer;
+}
+
+.display-data {
+  width: 100%;
+  margin: 20px;
+}
+
+.display-data h1 {
+  width: 100%;
+  text-align: center;
+}
+
+.details {
+  border: 1px solid black;
+  width: 50%;
+}
